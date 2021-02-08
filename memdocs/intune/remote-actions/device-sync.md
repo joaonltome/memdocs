@@ -38,7 +38,7 @@ The **Sync** device action forces the selected device to immediately check in wi
 - Windows
 - iOS
 - macOS
-- Android (Device administrator and Android for work only)
+- Android (Device administrator and Android Enterprise)
 
 ## Sync a device
 
